@@ -1,0 +1,3 @@
+In this project, I Created an expanding card that displays an expanded view of the poster on click and other posters get shrink down. 
+
+Technologies used : HTML, CSS, and JavaScript.
